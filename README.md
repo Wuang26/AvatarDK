@@ -27,4 +27,4 @@
   - Nếu bạn gặp lỗi hoặc muốn phát triển thêm tính năng, hãy góp ý!
 
 # Tải xuống:
- 
+ [Github Release](https://github.com/Wuang26/AvatarDK/releases)
