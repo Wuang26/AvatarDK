@@ -32,7 +32,8 @@
   - Nếu bạn gặp lỗi hoặc muốn phát triển thêm tính năng, hãy góp ý!
 
 # Cam kết
-  - Phiên bản hoàn toàn an toàn, cam kết không thu thập dữ liệu và tài khoản mật khẩu của người dùng.
+  - Phiên bản hoàn toàn an toàn
+  - Không thu thập dữ liệu và tài khoản mật khẩu của người dùng.
   - Sử dụng dựa trên sự tin tưởng của bạn.
 
 # Tải xuống:
