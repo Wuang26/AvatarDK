@@ -13,7 +13,7 @@
   - Tương tác với NPC/Nhân vật khác từ xa.
   - Khung nhập liệu native hệ thống.
   - Preview nhân vật trong rương đồ.
-
+  - ...
 # Các tính năng mod:
   - Auto Farm.
   - Auto câu cá.
