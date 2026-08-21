@@ -28,9 +28,6 @@
   - Bỏ đồ nhanh.
   - ...
 
-# Lỗi đã biết:
-  - Lỗi tương tác với kho đồ thợ khoá.
-
 # Phát triển:
   - Nếu bạn gặp lỗi hoặc muốn phát triển thêm tính năng, hãy góp ý!
 
