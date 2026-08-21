@@ -5,8 +5,8 @@
 
 # Điều chỉnh so với bản gốc:
   - Tối ưu hoá tỉ lệ màn hình.
-  - Cho phép chơi với màn hình dọc.
-  - Cho phép chơi 2 tài khoản cùng lúc.
+  - Cho phép tỉ lệ màn hình dọc.
+  - Cho phép online 2 tài khoản cùng lúc.
   - Xoá cản trở địa hình.
   - Bổ xung hành động, biểu cảm của game.
   - Thêm nút ok vào thông báo load.
