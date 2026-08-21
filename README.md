@@ -26,6 +26,7 @@
   - Hiển thị thông tin nhân vật và map.
   - Chỉnh tốc độ game.
   - Bỏ đồ nhanh.
+  - ...
 
 # Lỗi đã biết:
   - Lỗi tương tác với kho đồ thợ khoá.
