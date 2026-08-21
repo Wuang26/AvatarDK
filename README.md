@@ -1,4 +1,8 @@
 # AvatarDK
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Wuang26/AvatarDK/main/IMAGE/Avatar.jpg" alt="AvatarDK Image" width="400">
+</p>
+
 # Điều chỉnh so với bản gốc:
   - Tối ưu hoá tỉ lệ màn hình.
   - Cho phép chơi với màn hình dọc.
@@ -9,6 +13,7 @@
   - Tương tác với NPC/Nhân vật khác từ xa.
   - Khung nhập liệu native hệ thống.
   - Preview nhân vật trong rương đồ.
+
 # Các tính năng mod:
   - Auto Farm.
   - Auto câu cá.
@@ -21,6 +26,7 @@
   - Hiển thị thông tin nhân vật và map.
   - Chỉnh tốc độ game.
   - Bỏ đồ nhanh.
+
 # Lỗi đã biết:
   - Lỗi tương tác với kho đồ thợ khoá.
 
