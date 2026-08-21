@@ -9,7 +9,7 @@
   - Cho phép online 2 tài khoản cùng lúc.
   - Xoá cản trở địa hình.
   - Bổ xung hành động, biểu cảm của game.
-  - Thêm nút ok vào thông báo load.
+  - Thêm nút đóng thông báo xin chờ
   - Tương tác với NPC/Nhân vật khác từ xa.
   - Khung nhập liệu native hệ thống.
   - Preview nhân vật trong rương đồ.
