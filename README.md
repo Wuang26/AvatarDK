@@ -13,6 +13,7 @@
   - Tương tác với NPC/Nhân vật khác từ xa.
   - Khung nhập liệu native hệ thống.
   - Preview nhân vật trong rương đồ.
+  - Fix một số lỗi bản gốc
   - ...
 # Các tính năng mod:
   - Auto Farm.
