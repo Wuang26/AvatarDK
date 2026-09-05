@@ -27,6 +27,7 @@
   - Hiển thị thông tin nhân vật và map.
   - Chỉnh tốc độ game.
   - Bỏ đồ nhanh.
+  - Cất vật phẩm "Mặt - Mắt - Tóc"
   - ...
 
 # Phát triển:
