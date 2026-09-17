@@ -6,6 +6,8 @@
 # Điều chỉnh so với bản gốc:
   - Tối ưu hoá tỉ lệ màn hình.
   - Cho phép tỉ lệ màn hình dọc.
+  - Mở khoá cửa sổ nổi.
+  - Cho phép thay đổi kích thước cửa sổ.
   - Cho phép online 2 tài khoản cùng lúc.
   - Xoá cản trở địa hình.
   - Bổ xung hành động, biểu cảm của game.
@@ -13,14 +15,15 @@
   - Tương tác với NPC/Nhân vật khác từ xa.
   - Khung nhập liệu native hệ thống.
   - Preview nhân vật trong rương đồ.
-  - Fix một số lỗi bản gốc
+  - Fix một số lỗi khác.
   - ...
 # Các tính năng mod:
   - Auto Farm.
   - Auto câu cá.
   - Auto chat.
   - Auto quay số.
-  - Auto di chuyển.
+  - Auto treo.
+  - Auto troll
   - Auto nhại chat.
   - Auto bỏ đồ người khác tặng.
   - Auto tìm nhân vật và npc.
