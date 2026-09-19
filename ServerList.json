@@ -1,0 +1,11 @@
+{
+  "groups": [
+    {
+      "name": "Xứ Sở Diệu Kỳ",
+      "servers": [
+        { "name": "Thành Phố Hoàn Mỹ", "ip": "112.213.85.102", "port": 19128 },
+        { "name": "Thành Phố Diệu Kỳ", "ip": "112.213.85.101", "port": 19128 }
+      ]
+    }
+  ]
+}
