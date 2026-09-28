@@ -27,11 +27,12 @@
   - Auto nhại chat.
   - Auto bỏ đồ người khác tặng.
   - Auto tìm nhân vật và npc.
+  - Auto ghép ảnh.
   - Hiển thị thông tin nhân vật và map.
   - Chỉnh tốc độ game.
   - Bỏ đồ nhanh.
   - Cất vật phẩm "Mặt - Mắt - Tóc".
-  - Auto ghép ảnh.
+  - Ẩn hoặc sao chép item người chơi khác.
   - ...
 
 # Phát triển:
