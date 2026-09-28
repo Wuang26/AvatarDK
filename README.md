@@ -6,19 +6,19 @@
 # Điều chỉnh so với bản gốc:
   - Tối ưu hoá tỉ lệ màn hình.
   - Cho phép tỉ lệ màn hình dọc.
+  - Cho phép điều chỉnh FPS
   - Mở khoá cửa sổ nổi.
   - Cho phép thay đổi kích thước cửa sổ.
   - Cho phép online 2 tài khoản cùng lúc.
   - Xoá cản trở địa hình.
   - Bổ xung hành động, biểu cảm của game.
-  - Thêm nút đóng thông báo xin chờ
+  - Thêm nút đóng thông báo xin chờ.
   - Tương tác với NPC/Nhân vật khác từ xa.
   - Khung nhập liệu native hệ thống.
   - Preview nhân vật trong rương đồ.
-  - Fix một số lỗi khác.
   - ...
 # Các tính năng mod:
-  - Auto Farm.
+  - Auto nông trại.
   - Auto câu cá.
   - Auto chat.
   - Auto quay số.
@@ -30,7 +30,8 @@
   - Hiển thị thông tin nhân vật và map.
   - Chỉnh tốc độ game.
   - Bỏ đồ nhanh.
-  - Cất vật phẩm "Mặt - Mắt - Tóc"
+  - Cất vật phẩm "Mặt - Mắt - Tóc".
+  - Auto ghép ảnh.
   - ...
 
 # Phát triển:
