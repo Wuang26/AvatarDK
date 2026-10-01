@@ -1,4 +1,4 @@
-# AvatarDK
+# AvatarDK - 2X
 <p align="center">
   <img src="https://raw.githubusercontent.com/Wuang26/AvatarDK/main/IMAGE/Avatar.jpg" alt="AvatarDK Image" width="400">
 </p>
@@ -20,6 +20,8 @@
 # Các tính năng mod:
   - Auto nông trại.
   - Auto câu cá.
+  - Auto kim cương.
+  - Auto bán kim cương
   - Auto chat.
   - Auto quay số.
   - Auto treo.
