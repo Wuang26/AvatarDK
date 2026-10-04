@@ -30,6 +30,8 @@
   - Auto bỏ đồ người khác tặng.
   - Auto tìm nhân vật và npc.
   - Auto ghép ảnh.
+  - Auto đổi đồ.
+  - Preview vật phẩm.
   - Hiển thị thông tin nhân vật và map.
   - Chỉnh tốc độ game.
   - Bỏ đồ nhanh.
