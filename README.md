@@ -48,4 +48,4 @@
   - Sử dụng dựa trên sự tin tưởng của bạn.
 
 # Tải xuống:
-Tải xuống tại: [Github Release](https://github.com/Wuang26/AvatarDK/releases)
+Tải xuống tại: [Github Release](https://github.com/Wuang26/AvatarDK/releases/latest)
