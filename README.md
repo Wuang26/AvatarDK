@@ -38,7 +38,7 @@
   - Bỏ đồ nhanh.
   - Cất vật phẩm "Mặt - Mắt - Tóc".
   - Ẩn hoặc sao chép item người chơi khác.
-  - Chat nhanh: **s** [Tốc độ game], **k** [Chuyển khu], **m** [Chuyển map], **idname** [Fake tên], **fakesao** [Fake sao]. (vd: s1, k2, m11, idname "Kousei", fakesao,...)
+  - Chat nhanh: **s** [Tốc độ game], **k** [Chuyển khu], **m** [Chuyển map], **faketen** [Fake tên], **fakesao** [Fake sao]. (vd: s1, k2, m11, faketen, fakesao,...)
   - ...
 
 # Phát triển:
