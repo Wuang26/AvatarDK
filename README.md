@@ -40,7 +40,7 @@
   - Ẩn hoặc sao chép item người chơi khác.
   - **...**
 <details>
-<summary>Chat nhanh (nhấn để mở)</summary>
+<summary>Lệnh chat nhanh (nhấn để xem.)</summary>
 
 **s** [Tốc độ game], **k** [Chuyển khu], **m** [Chuyển map], **faketen** [Fake tên], **fakesao** [Fake sao]. (vd: s1, k2, m11, faketen, fakesao,...)
 
