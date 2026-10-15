@@ -16,6 +16,7 @@
   - Tương tác với NPC/Nhân vật khác từ xa.
   - Khung nhập liệu native hệ thống.
   - Preview nhân vật trong rương đồ.
+  - Lớp phủ Overlay.
   - ...
 # Các tính năng mod:
   - Auto nông trại.
@@ -37,6 +38,7 @@
   - Bỏ đồ nhanh.
   - Cất vật phẩm "Mặt - Mắt - Tóc".
   - Ẩn hoặc sao chép item người chơi khác.
+  - Chat nhanh: **s** [Tốc độ game], **k** [Chuyển khu], **m** [Chuyển map], **idname** [Fake tên], **fakesao** [Fake sao]. (vd: s1, k2, m11, idname "Kousei", fakesao,...)
   - ...
 
 # Phát triển:
