@@ -17,7 +17,7 @@
   - Khung nhập liệu native hệ thống.
   - Preview nhân vật trong rương đồ.
   - Lớp phủ Overlay.
-  - ...
+  - **...**
 # Các tính năng mod:
   - Auto nông trại.
   - Auto câu cá.
@@ -38,8 +38,13 @@
   - Bỏ đồ nhanh.
   - Cất vật phẩm "Mặt - Mắt - Tóc".
   - Ẩn hoặc sao chép item người chơi khác.
-  - Chat nhanh: **s** [Tốc độ game], **k** [Chuyển khu], **m** [Chuyển map], **faketen** [Fake tên], **fakesao** [Fake sao]. (vd: s1, k2, m11, faketen, fakesao,...)
-  - ...
+  - **...**
+<details>
+<summary>Chat nhanh (nhấn để mở)</summary>
+
+**s** [Tốc độ game], **k** [Chuyển khu], **m** [Chuyển map], **faketen** [Fake tên], **fakesao** [Fake sao]. (vd: s1, k2, m11, faketen, fakesao,...)
+
+</details>
 
 # Phát triển:
   - Nếu bạn gặp lỗi hoặc muốn phát triển thêm tính năng, hãy góp ý!
