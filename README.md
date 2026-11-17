@@ -17,16 +17,20 @@
   - Khung nhập liệu native hệ thống.
   - Preview nhân vật trong rương đồ.
   - Lớp phủ Overlay.
+  - Giao diện UGUI.
+  - Hiệu ứng thời tiết, mùa.
   - **...**
 # Các tính năng mod:
   - Auto nông trại.
   - Auto câu cá.
   - Auto kim cương.
-  - Auto bán kim cương
+  - Auto bán kim cương.
+  - Auto nhiệm vụ.
+  - Auto up nhẫn.
   - Auto chat.
   - Auto quay số.
   - Auto treo.
-  - Auto troll
+  - Auto troll.
   - Auto nhại chat.
   - Auto bỏ đồ người khác tặng.
   - Auto tìm nhân vật và npc.
@@ -38,6 +42,7 @@
   - Bỏ đồ nhanh.
   - Cất vật phẩm "Mặt - Mắt - Tóc".
   - Ẩn hoặc sao chép item người chơi khác.
+  - Fake Sao - icon sau tên nhân vật.
   - **...**
 <details>
 <summary>Lệnh chat nhanh (nhấn để xem.)</summary>
