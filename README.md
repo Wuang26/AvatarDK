@@ -19,7 +19,7 @@
   - Lớp phủ Overlay.
   - Giao diện UGUI.
   - Hiệu ứng thời tiết, mùa.
-  - Nhiều tab.
+  - Chế độ nhiều tab - lite.
   - **...**
 # Các tính năng mod:
   - Auto nông trại.
