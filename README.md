@@ -19,6 +19,7 @@
   - Lớp phủ Overlay.
   - Giao diện UGUI.
   - Hiệu ứng thời tiết, mùa.
+  - Nhiều tab.
   - **...**
 # Các tính năng mod:
   - Auto nông trại.
@@ -36,6 +37,7 @@
   - Auto tìm nhân vật và npc.
   - Auto ghép ảnh.
   - Auto đổi đồ.
+  - Auto tài xỉu.
   - Preview vật phẩm.
   - Hiển thị thông tin nhân vật và map.
   - Chỉnh tốc độ game.
