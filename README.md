@@ -38,6 +38,7 @@
   - Auto ghép ảnh.
   - Auto đổi đồ.
   - Auto tài xỉu.
+  - Auto nâng cấp.
   - Preview vật phẩm.
   - Hiển thị thông tin nhân vật và map.
   - Chỉnh tốc độ game.
